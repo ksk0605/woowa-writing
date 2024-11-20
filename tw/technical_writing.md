@@ -149,6 +149,7 @@ for (MoimMember moimMember : moimMembers) {
 
 ![mouda.domain.drawio.png](./image/mouda.domain.drawio.png)
 
+
 관계형 데이터베이스의 ERD를 상상해보셨다면 위 클래스 다이어그램이 얼마나 직관적이며 현실에 더 가까운지 감이 오실 것입니다. 다이어그램만 보더라도 객체 간 관계가 쉽게 이해되며 요구사항의 대부분이 표현되어 있음을 알 수 있습니다. (물론 실제 규모의 비즈니스는 이보다 훨씬 복잡합니다)
 
 ### 모임 생성 플로우 분석
